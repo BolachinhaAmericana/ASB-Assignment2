@@ -6,14 +6,14 @@
 	- Reanalyze the data using PCA and admixture plots and compare our results with the ones they got on the original paper.
 	- We also made sure that out analyses was reproductible so it will hopefully work on your computer as well!
 #### What I did in this project
-- This isn't the submitted assignment but rather everything I alone did. Its missing the PCA analysis, the interpretation  our results comparing them to the paper.
+- This isn't the submitted assignment but rather everything I alone did. Its missing the PCA analysis and the interpretation  our results comparing them to the paper.
 ### How to run
 For you to run this analysis you will simply need to run the scripts in order ( 1 - 6 ), wait for them to complete and follow their instructions.
 ### Used programs
-> conda 4.13.0
->"fasterq-dump" version 2.11.0
-> ipyrad 0.9.84
->	Python 3.8.10
+- conda 4.13.0
+-"fasterq-dump" version 2.11.0
+- ipyrad 0.9.84
+- Python 3.8.10
 ### How to run this program
 1.  execute the 1_preparation.sh file
 2.  activate a conda environment for sra analysis
